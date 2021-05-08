@@ -1,2 +1,2 @@
 # Distributed-System
-brief introduction on distributed system 
+Brief Introduction on Distributed System 
